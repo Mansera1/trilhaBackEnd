@@ -4,7 +4,10 @@ Sistema de controle de versões são ferramentas capazes de armazenar mudanças 
 
 #VANTAGENS EM UTILIZAR UM VCS:
 
-Controle de versões Trabalhar de forma mais rápida e organizada Pode ser utilizado por uma equipe Comparar o programa com as suas versões anteriores Acompanhar mudanças
+Controle de versões 
+Trabalhar de forma mais rápida e organizada 
+Pode ser utilizado por uma equipe 
+Comparar o programa com as suas versões anteriores Acompanhar mudanças
 
 #EXEMPLOS DE VCS:
 
