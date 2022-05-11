@@ -57,13 +57,13 @@ Estrutura condicional podendo ser simples ou composta, possibilita ações serem
 if (a > b) {
 
 
-    printf("o número %d é maior que o número %d", a, b);
+   Console.Writeline(" o número a é maior que o número b ");
     
     
 } else {
 
 
-    printf("o número %d é menor que o número %d", a, b);
+   Console.Writeline(" o número b é maior que o número a ");
     
     
 }
