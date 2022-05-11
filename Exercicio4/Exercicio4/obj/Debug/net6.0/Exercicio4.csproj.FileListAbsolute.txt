@@ -1,0 +1,15 @@
+D:\PROJETOS\Exercicio4\Exercicio4\bin\Debug\net6.0\Exercicio4.exe
+D:\PROJETOS\Exercicio4\Exercicio4\bin\Debug\net6.0\Exercicio4.deps.json
+D:\PROJETOS\Exercicio4\Exercicio4\bin\Debug\net6.0\Exercicio4.runtimeconfig.json
+D:\PROJETOS\Exercicio4\Exercicio4\bin\Debug\net6.0\Exercicio4.dll
+D:\PROJETOS\Exercicio4\Exercicio4\bin\Debug\net6.0\Exercicio4.pdb
+D:\PROJETOS\Exercicio4\Exercicio4\obj\Debug\net6.0\Exercicio4.csproj.AssemblyReference.cache
+D:\PROJETOS\Exercicio4\Exercicio4\obj\Debug\net6.0\Exercicio4.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJETOS\Exercicio4\Exercicio4\obj\Debug\net6.0\Exercicio4.AssemblyInfoInputs.cache
+D:\PROJETOS\Exercicio4\Exercicio4\obj\Debug\net6.0\Exercicio4.AssemblyInfo.cs
+D:\PROJETOS\Exercicio4\Exercicio4\obj\Debug\net6.0\Exercicio4.csproj.CoreCompileInputs.cache
+D:\PROJETOS\Exercicio4\Exercicio4\obj\Debug\net6.0\Exercicio4.dll
+D:\PROJETOS\Exercicio4\Exercicio4\obj\Debug\net6.0\refint\Exercicio4.dll
+D:\PROJETOS\Exercicio4\Exercicio4\obj\Debug\net6.0\Exercicio4.pdb
+D:\PROJETOS\Exercicio4\Exercicio4\obj\Debug\net6.0\Exercicio4.genruntimeconfig.cache
+D:\PROJETOS\Exercicio4\Exercicio4\obj\Debug\net6.0\ref\Exercicio4.dll
