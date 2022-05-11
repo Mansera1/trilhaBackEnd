@@ -6,8 +6,17 @@
 # FUNÇÕES
 
 - Funções são comandos dados para execução de uma rotina, não precisando copiar o código toda vez a fim de gerar a ação 
-  <br />
+  
   Funcao multiplicacao(x, y: inteiro): inteiro
+  
+  
   Inicio
+  
+  
   Retorne x * y
+  
+  
   FimFuncao
+  
+  
+  
