@@ -69,6 +69,42 @@ if (a > b) {
 }
 
 
+# ESTRUTURA DE REPETIÇÃO WHILE
+
+
+Enquanto a condição for verdadeira, a instrução será executada 
+
+
+while (condição)
+
+
+{
+
+
+        bloco de código
+
+
+}
+
+
+# ESTRUTURA DE REPETIÇÃO FOR 
+
+
+É utilizado para executar uma ação X vezes, passando uma situação inicial,uma condição e a ação a ser executada a cada repetição
+
+for (int i=0; i<5; i++) {
+
+
+Console.Writeline("Valor de i: " + i);
+
+}
+
+
+
+
+
+
+
 
 
 
