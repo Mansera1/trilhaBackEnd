@@ -30,5 +30,30 @@ Funções são comandos dados para execução de uma rotina, não precisando cop
 # ESTRUTURA SEQUENCIAL 
 
 
+Estrutura sequencial são instruções executadas em seguimento , obedecendo uma lógica de programação 
+
+
+inicio
+
+
+entrada
+
+
+processamento
+
+
+saida
+
+
+fim
+
+
+
+
+
+
+
+
+
 
   
