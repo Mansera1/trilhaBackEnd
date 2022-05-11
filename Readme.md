@@ -1,4 +1,7 @@
-# OQUE É LÓGICA DE PROGRAMAÇÃO E QUAL A IMPORTÂNCIA PARA REALIZAR UM BOM CÓDIGO
+# OQUE É LÓGICA DE PROGRAMAÇÃO
+
+
+# QUAL A IMPORTÂNCIA PARA REALIZAR UM BOM CÓDIGO
 
 
 Lógica de programação são intruções organizadas, para que o computador leia e entenda oque deve ser feito, a fim de criar uma solução para um problema ou a criação de um software
@@ -8,7 +11,8 @@ Um bom código torna a compreensão mais facil, ajudando o programador ou uma eq
 
 # FUNÇÕES
 
-- Funções são comandos dados para execução de uma rotina, não precisando copiar o código toda vez a fim de gerar a ação 
+
+Funções são comandos dados para execução de uma rotina, não precisando copiar o código toda vez a fim de gerar a ação 
   
   Funcao multiplicacao(x, y: inteiro): inteiro
   
@@ -22,6 +26,8 @@ Um bom código torna a compreensão mais facil, ajudando o programador ou uma eq
   FimFuncao
   
   
-  # ESTRUTURA SEQUENCIAL 
-  
+# ESTRUTURA SEQUENCIAL 
+
+
+
   
