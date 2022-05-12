@@ -1,0 +1,15 @@
+D:\PROJETOS\Livro\Livro\bin\Debug\net6.0\Livro.exe
+D:\PROJETOS\Livro\Livro\bin\Debug\net6.0\Livro.deps.json
+D:\PROJETOS\Livro\Livro\bin\Debug\net6.0\Livro.runtimeconfig.json
+D:\PROJETOS\Livro\Livro\bin\Debug\net6.0\Livro.dll
+D:\PROJETOS\Livro\Livro\bin\Debug\net6.0\Livro.pdb
+D:\PROJETOS\Livro\Livro\obj\Debug\net6.0\Livro.csproj.AssemblyReference.cache
+D:\PROJETOS\Livro\Livro\obj\Debug\net6.0\Livro.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJETOS\Livro\Livro\obj\Debug\net6.0\Livro.AssemblyInfoInputs.cache
+D:\PROJETOS\Livro\Livro\obj\Debug\net6.0\Livro.AssemblyInfo.cs
+D:\PROJETOS\Livro\Livro\obj\Debug\net6.0\Livro.csproj.CoreCompileInputs.cache
+D:\PROJETOS\Livro\Livro\obj\Debug\net6.0\Livro.dll
+D:\PROJETOS\Livro\Livro\obj\Debug\net6.0\refint\Livro.dll
+D:\PROJETOS\Livro\Livro\obj\Debug\net6.0\Livro.pdb
+D:\PROJETOS\Livro\Livro\obj\Debug\net6.0\Livro.genruntimeconfig.cache
+D:\PROJETOS\Livro\Livro\obj\Debug\net6.0\ref\Livro.dll

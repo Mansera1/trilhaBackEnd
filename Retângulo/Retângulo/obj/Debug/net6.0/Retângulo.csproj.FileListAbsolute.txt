@@ -1,0 +1,15 @@
+D:\PROJETOS\Retângulo\Retângulo\bin\Debug\net6.0\Retângulo.exe
+D:\PROJETOS\Retângulo\Retângulo\bin\Debug\net6.0\Retângulo.deps.json
+D:\PROJETOS\Retângulo\Retângulo\bin\Debug\net6.0\Retângulo.runtimeconfig.json
+D:\PROJETOS\Retângulo\Retângulo\bin\Debug\net6.0\Retângulo.dll
+D:\PROJETOS\Retângulo\Retângulo\bin\Debug\net6.0\Retângulo.pdb
+D:\PROJETOS\Retângulo\Retângulo\obj\Debug\net6.0\Retângulo.csproj.AssemblyReference.cache
+D:\PROJETOS\Retângulo\Retângulo\obj\Debug\net6.0\Retângulo.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJETOS\Retângulo\Retângulo\obj\Debug\net6.0\Retângulo.AssemblyInfoInputs.cache
+D:\PROJETOS\Retângulo\Retângulo\obj\Debug\net6.0\Retângulo.AssemblyInfo.cs
+D:\PROJETOS\Retângulo\Retângulo\obj\Debug\net6.0\Retângulo.csproj.CoreCompileInputs.cache
+D:\PROJETOS\Retângulo\Retângulo\obj\Debug\net6.0\Retângulo.dll
+D:\PROJETOS\Retângulo\Retângulo\obj\Debug\net6.0\refint\Retângulo.dll
+D:\PROJETOS\Retângulo\Retângulo\obj\Debug\net6.0\Retângulo.pdb
+D:\PROJETOS\Retângulo\Retângulo\obj\Debug\net6.0\Retângulo.genruntimeconfig.cache
+D:\PROJETOS\Retângulo\Retângulo\obj\Debug\net6.0\ref\Retângulo.dll
