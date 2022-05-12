@@ -1,10 +1,10 @@
-#O QUE É UM MÉTODO
+# O QUE É UM MÉTODO
 
 
 Método é um bloco de código que contém instruções,especificando oque é necessário para que seja executado no programa
 
 
-#NIVEIS DE ACESSO E DIFERENÇA ENTRE ELES 
+# NIVEIS DE ACESSO E DIFERENÇA ENTRE ELES 
 
 
 Métodos são declarados em classe,struct ou interface especificando o nível de acesso
