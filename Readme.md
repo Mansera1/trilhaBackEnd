@@ -10,9 +10,9 @@ Método é um bloco de código que contém instruções,especificando oque é ne
 Métodos são declarados em classe,struct ou interface especificando o nível de acesso
 - Public : pode ser acessado por qualquer outro código no mesmo assembly ou que faça referência a ele
 - Private : só pode ser acessado por código na mesma class ou struct
-- Protegido : só pode ser acessado por código na mesma class ou em uma class derivado dessa class
-- Interno : só pode ser acessado por qualquer código no mesmo assembly, mas não por outro assembly
-- Protegido Interno : pode ser acessado por qualquer código no assembly no qual ele é declarado ou de dentro de um derivado class em outro assembly
+- Protected : só pode ser acessado por código na mesma class ou em uma class derivado dessa class
+- Internal : só pode ser acessado por qualquer código no mesmo assembly, mas não por outro assembly
+- Protected Internal : pode ser acessado por qualquer código no assembly no qual ele é declarado ou de dentro de um derivado class em outro assembly
 - Private Protected : pode ser acessado por tipos derivados da class que são declarados em seu assembly
 
 
