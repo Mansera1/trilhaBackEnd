@@ -9,3 +9,24 @@ Os principais pilares da programação orientada a objetos são:
 - Assosiação
 - Encapsulamento
 - Herança e Polimorfismo
+
+
+ # Classe e Método Abstratos
+ Classes abstratas são classes que não podem ser instanciadas, é uma forma de garantir herança total, somente a subclasses não abstratas podem ser instanciadas, mas nunca a superclasse abstrata
+ 
+ 
+ Método abstrato é um método declarado abstrato, não contendo corpo e apenas sendo declarado dentro da classe abstrata
+ Exemplo:
+ 
+ 
+ public abstract void forma();
+ 
+ 
+// indica que o método 'forma()' é abstrato
+
+
+ 
+abstract class forma
+
+
+// indica que a classe 'forma' é abstrata
