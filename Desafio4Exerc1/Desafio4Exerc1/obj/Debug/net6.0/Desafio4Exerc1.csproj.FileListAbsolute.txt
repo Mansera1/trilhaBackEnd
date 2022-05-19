@@ -1,0 +1,15 @@
+D:\PROJETOS\Desafio4Exerc1\Desafio4Exerc1\obj\Debug\net6.0\Desafio4Exerc1.csproj.AssemblyReference.cache
+D:\PROJETOS\Desafio4Exerc1\Desafio4Exerc1\obj\Debug\net6.0\Desafio4Exerc1.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJETOS\Desafio4Exerc1\Desafio4Exerc1\obj\Debug\net6.0\Desafio4Exerc1.AssemblyInfoInputs.cache
+D:\PROJETOS\Desafio4Exerc1\Desafio4Exerc1\obj\Debug\net6.0\Desafio4Exerc1.AssemblyInfo.cs
+D:\PROJETOS\Desafio4Exerc1\Desafio4Exerc1\obj\Debug\net6.0\Desafio4Exerc1.csproj.CoreCompileInputs.cache
+D:\PROJETOS\Desafio4Exerc1\Desafio4Exerc1\bin\Debug\net6.0\Desafio4Exerc1.exe
+D:\PROJETOS\Desafio4Exerc1\Desafio4Exerc1\bin\Debug\net6.0\Desafio4Exerc1.deps.json
+D:\PROJETOS\Desafio4Exerc1\Desafio4Exerc1\bin\Debug\net6.0\Desafio4Exerc1.runtimeconfig.json
+D:\PROJETOS\Desafio4Exerc1\Desafio4Exerc1\bin\Debug\net6.0\Desafio4Exerc1.dll
+D:\PROJETOS\Desafio4Exerc1\Desafio4Exerc1\bin\Debug\net6.0\Desafio4Exerc1.pdb
+D:\PROJETOS\Desafio4Exerc1\Desafio4Exerc1\obj\Debug\net6.0\Desafio4Exerc1.dll
+D:\PROJETOS\Desafio4Exerc1\Desafio4Exerc1\obj\Debug\net6.0\refint\Desafio4Exerc1.dll
+D:\PROJETOS\Desafio4Exerc1\Desafio4Exerc1\obj\Debug\net6.0\Desafio4Exerc1.pdb
+D:\PROJETOS\Desafio4Exerc1\Desafio4Exerc1\obj\Debug\net6.0\Desafio4Exerc1.genruntimeconfig.cache
+D:\PROJETOS\Desafio4Exerc1\Desafio4Exerc1\obj\Debug\net6.0\ref\Desafio4Exerc1.dll
