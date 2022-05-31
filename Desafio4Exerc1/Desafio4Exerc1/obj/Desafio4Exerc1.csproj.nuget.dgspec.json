@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\PROJETOS\\Desafio4Exerc1\\Desafio4Exerc1\\Desafio4Exerc1.csproj": {}
+    "D:\\DOCUMENTOS GUILHERME\\trilhaBackEnd\\trilhaBackEnd\\Desafio4Exerc1\\Desafio4Exerc1\\Desafio4Exerc1.csproj": {}
   },
   "projects": {
-    "D:\\PROJETOS\\Desafio4Exerc1\\Desafio4Exerc1\\Desafio4Exerc1.csproj": {
+    "D:\\DOCUMENTOS GUILHERME\\trilhaBackEnd\\trilhaBackEnd\\Desafio4Exerc1\\Desafio4Exerc1\\Desafio4Exerc1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PROJETOS\\Desafio4Exerc1\\Desafio4Exerc1\\Desafio4Exerc1.csproj",
+        "projectUniqueName": "D:\\DOCUMENTOS GUILHERME\\trilhaBackEnd\\trilhaBackEnd\\Desafio4Exerc1\\Desafio4Exerc1\\Desafio4Exerc1.csproj",
         "projectName": "Desafio4Exerc1",
-        "projectPath": "D:\\PROJETOS\\Desafio4Exerc1\\Desafio4Exerc1\\Desafio4Exerc1.csproj",
+        "projectPath": "D:\\DOCUMENTOS GUILHERME\\trilhaBackEnd\\trilhaBackEnd\\Desafio4Exerc1\\Desafio4Exerc1\\Desafio4Exerc1.csproj",
         "packagesPath": "C:\\Users\\Guilherme\\.nuget\\packages\\",
-        "outputPath": "D:\\PROJETOS\\Desafio4Exerc1\\Desafio4Exerc1\\obj\\",
+        "outputPath": "D:\\DOCUMENTOS GUILHERME\\trilhaBackEnd\\trilhaBackEnd\\Desafio4Exerc1\\Desafio4Exerc1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }

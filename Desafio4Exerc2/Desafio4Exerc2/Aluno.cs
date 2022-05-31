@@ -19,9 +19,14 @@ namespace Desafio4Exerc2
             Idade = idade;
         }
 
-         public string IrParaEscola()
+         public void IrParaEscola()
         {
-            return "Cheguei na escola";
+            Console.WriteLine("Cheguei na escola");
+        }
+
+        public void DizerIdade()
+        {
+            Console.WriteLine(Idade);
         }
     }
 

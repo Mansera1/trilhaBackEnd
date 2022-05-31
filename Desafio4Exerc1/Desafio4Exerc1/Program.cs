@@ -8,28 +8,41 @@ class Program
 {
     static void Main(string[] args)
     {
-        List<Pessoa> pessoas = new List<Pessoa>();
+        Console.WriteLine("Entre com a primeira pessoa:");
+        Pessoa pessoa = new Pessoa();
+        Console.Write("Nome:");
+        pessoa.Nome = Console.ReadLine();
+        Console.Write("Idade:");
+        pessoa.Idade = int.Parse(Console.ReadLine());
 
-        Console.WriteLine("Entre com a quantidade de pessoas: ");
-        int numero = int.Parse(Console.ReadLine());
+        Console.WriteLine("Entre com a segunda pessoa:");
+        Pessoa pessoa2 = new Pessoa();
+        Console.Write("Nome:");
+        pessoa2.Nome = Console.ReadLine();
+        Console.Write("Idade:");
+        pessoa2.Idade = int.Parse(Console.ReadLine());
 
-        for (int i = 1; i < numero; i++)
+        Console.WriteLine("Entre com a terceira pessoa:");
+        Pessoa pessoa3 = new Pessoa();
+        Console.Write("Nome:");
+        pessoa3.Nome = Console.ReadLine();
+        Console.Write("Idade:");
+        pessoa3.Idade = int.Parse(Console.ReadLine());
+        
+
+        if (pessoa.Idade > pessoa2.Idade && pessoa.Idade > pessoa3.Idade)
         {
-            Console.WriteLine($"Dados da #{i} pessoa:");
-            Console.WriteLine("Nome:");
-            string nome = Console.ReadLine();
-            Console.WriteLine("Idade:");
-            int idade = int.Parse(Console.ReadLine());
-
-
-
+            pessoa.ExibirDados();
+        }
+        else if(pessoa2.Idade > pessoa.Idade && pessoa2.Idade > pessoa3.Idade)
+        {
+            pessoa2.ExibirDados();
+        }
+        else
+        {
+            pessoa3.ExibirDados();
         }
 
-        foreach (Pessoa p in pessoas)
-        {
-            Console.WriteLine(p.Nome + " " + p.Idade);
-        }
-        Console.ReadKey();
 
 
     }

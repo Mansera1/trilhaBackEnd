@@ -19,14 +19,14 @@ namespace Desafio4Exerc2
             this.Nome = nome;
         }
 
-        public string Cumprimentar()
+        public void Cumprimentar()
         {
-            return "Bom dia";
+            Console.WriteLine("Bom dia");
         }
 
-        int DizerIdade()
+        public void DizerIdade()
         {
-            return Idade;
+            Console.WriteLine(Idade);
         }
     }
 }

@@ -19,12 +19,15 @@ namespace Desafio4Exerc2
             Idade = idade;
         }
 
-         public string Explicar()
+         public void Explicar()
         {
-            return "A meiose é um tipo de divisão celular reducional, " +
-                "pois gera células-filhas com metade do número de cromossomos. " +
-                "A meiose é um processo de divisão celular caracterizado pela formação de quatro células-filhas com a metade do número de cromossomos da célula-mãe";
+            Console.WriteLine("O Naruto pode ser um pouco duro às vezes, talvez você não saiba disso, mas o Naruto também cresceu sem pai. Na verdade ele nunca conheceu nenhum de seus pais, e nunca teve nenhum amigo em nossa aldeia.");
                 
+        }
+
+        public void DizerIdade()
+        {
+            Console.WriteLine(Idade);
         }
     }
 }
