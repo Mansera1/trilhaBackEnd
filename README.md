@@ -1,2 +1,10 @@
-# trilhaBackEnd
-Entrega de desafios
+# OQUE É TRATAMENTO DE EXCEÇÕES?
+
+
+Tratamento de excções são mecanismos para comunicar condições de erros, se o programa não provê um código para tratar uma exceção, o sistema irá parar o programa
+
+
+# BENEFICIOS
+- Trata de forma organizada exceçoes de tipos diferentes
+- A exceção pode carregar dados quaisquer
+- Permite que erros sejam tratados de forma consistente e flexível, usando boas práticas
