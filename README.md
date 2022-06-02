@@ -19,3 +19,42 @@ Tratamento de excções são mecanismos para comunicar condições de erros, se 
 
 
 Bloco que contém código a ser executado independentemente de ter ocorrigo ou não uma exceção, garante que o código definido no bloco smepre será executado mesmo ocorrendo uma exceção 
+
+
+# ESTRUTURA TRY-CATCH
+
+
+. Bloco try
+- Contém o código que representa a execução normal do trecho de códgio que pode acarretar em uma exceção 
+
+
+. Bloco catch
+- Contém o códgio a ser executado caso uma exceção ocorra
+- Deve ser especificado o tipo da exceção a ser tratada 
+
+
+Exemplo
+
+
+try{
+
+
+}
+
+
+catch (ExceptionType e) {
+
+
+}
+
+
+catch(ExceptionType e) {
+
+
+}
+
+
+catch (ExceptionType e) {
+
+
+}
