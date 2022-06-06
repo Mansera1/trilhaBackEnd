@@ -1,0 +1,15 @@
+D:\PROJETOS\Desafio5Exercicio2\Desafio5Exercicio2\obj\Debug\net6.0\Desafio5Exercicio2.csproj.AssemblyReference.cache
+D:\PROJETOS\Desafio5Exercicio2\Desafio5Exercicio2\obj\Debug\net6.0\Desafio5Exercicio2.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJETOS\Desafio5Exercicio2\Desafio5Exercicio2\obj\Debug\net6.0\Desafio5Exercicio2.AssemblyInfoInputs.cache
+D:\PROJETOS\Desafio5Exercicio2\Desafio5Exercicio2\obj\Debug\net6.0\Desafio5Exercicio2.AssemblyInfo.cs
+D:\PROJETOS\Desafio5Exercicio2\Desafio5Exercicio2\obj\Debug\net6.0\Desafio5Exercicio2.csproj.CoreCompileInputs.cache
+D:\PROJETOS\Desafio5Exercicio2\Desafio5Exercicio2\bin\Debug\net6.0\Desafio5Exercicio2.exe
+D:\PROJETOS\Desafio5Exercicio2\Desafio5Exercicio2\bin\Debug\net6.0\Desafio5Exercicio2.deps.json
+D:\PROJETOS\Desafio5Exercicio2\Desafio5Exercicio2\bin\Debug\net6.0\Desafio5Exercicio2.runtimeconfig.json
+D:\PROJETOS\Desafio5Exercicio2\Desafio5Exercicio2\bin\Debug\net6.0\Desafio5Exercicio2.dll
+D:\PROJETOS\Desafio5Exercicio2\Desafio5Exercicio2\bin\Debug\net6.0\Desafio5Exercicio2.pdb
+D:\PROJETOS\Desafio5Exercicio2\Desafio5Exercicio2\obj\Debug\net6.0\Desafio5Exercicio2.dll
+D:\PROJETOS\Desafio5Exercicio2\Desafio5Exercicio2\obj\Debug\net6.0\refint\Desafio5Exercicio2.dll
+D:\PROJETOS\Desafio5Exercicio2\Desafio5Exercicio2\obj\Debug\net6.0\Desafio5Exercicio2.pdb
+D:\PROJETOS\Desafio5Exercicio2\Desafio5Exercicio2\obj\Debug\net6.0\Desafio5Exercicio2.genruntimeconfig.cache
+D:\PROJETOS\Desafio5Exercicio2\Desafio5Exercicio2\obj\Debug\net6.0\ref\Desafio5Exercicio2.dll
